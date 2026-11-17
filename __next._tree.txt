@@ -1,4 +1,4 @@
-:HL["/_next/static/css/ba7c5d29fda1070f.css","style"]
+:HL["/_next/static/css/efc5aa06f50cf1ae.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Archivo:wght@700;800;900&family=IBM+Plex+Sans:wght@400;500;600&display=swap","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"gXBsGKIs1Zf9NJc6Bqi7O","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Y_00z6TAweFoCjZiGyhq2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
